@@ -1,0 +1,10 @@
+,dtype,missing_count,missing_percent,unique_count
+country,str,0,0.0,9
+avg_unit_price,float64,0,0.0,5689
+bulk_buy_ratio,float64,0,0.0,2652
+avg_basket_size,float64,0,0.0,4827
+product_diversity,int64,0,0.0,463
+weekend_ratio,float64,0,0.0,1467
+tenure_days,int64,0,0.0,732
+return_rate,float64,0,0.0,253
+customer_segment,str,0,0.0,4
