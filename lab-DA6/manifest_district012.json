@@ -1,0 +1,33 @@
+{
+  "dataset": "Chicago Crimes - 2001 to Present (Socrata dataset ijzp-q8t2)",
+  "district": "012",
+  "start_date": "2019-01-01",
+  "end_date": "2024-12-31",
+  "frequency": "W-MON",
+  "n_total_periods": 314,
+  "n_train": 302,
+  "n_test": 12,
+  "ADF_statistic": -1.985443495185015,
+  "ADF_pvalue": 0.2929918645416836,
+  "selected_ARIMA_order": [
+    1,
+    1,
+    1
+  ],
+  "selected_ARIMA_AIC": 2878.2514811481547,
+  "Ljung_Box_pvalue": 0.5367621472089754,
+  "prediction_interval_coverage": 0.8333333333333334,
+  "classification_threshold": 260.0,
+  "confusion_matrix": [
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      9
+    ]
+  ],
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.26200-SP0"
+}
